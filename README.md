@@ -1,4 +1,4 @@
-# Age-Gender_Detector
+## Age-Gender_Detector
 Simple age and gender detector using Machine learning
 
 # To simply run this model:
@@ -13,7 +13,7 @@ Simple age and gender detector using Machine learning
 
 5.View results
 
-# To Run this Model yourself:
+## To Run this Model yourself:
 
 1.Clone this repository
 
@@ -21,7 +21,7 @@ Simple age and gender detector using Machine learning
 
 3.Extract the dataset to your repository folder.
 
-4.Open the Model jupyter notebool
+4.Open the [Model jupyter notebook]()
 
 5.Run this notebook
 
