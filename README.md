@@ -37,13 +37,13 @@ Simple age and gender detector using Machine learning
 
 ### Sample Output 1
 
-[Sample Output 1](https://github.com/KamleshSinghBisht/Age-Gender_Detector-/blob/main/Output_Image_1.PNG)
+![Sample Output 1](https://github.com/KamleshSinghBisht/Age-Gender_Detector-/blob/main/Output_Image_1.PNG)
 
-Sample Output 2:
-Sample Output 2
+## Sample Output 2:
+![Sample Output 2]()
 
-Sample Output 3:
-Sample Output 3
+## Sample Output 3:
+![Sample Output 3]()
 
-Sample Output 4:
-Sample Output 4
+## Sample Output 4:
+![Sample Output 4]()
